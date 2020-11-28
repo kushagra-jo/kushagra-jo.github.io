@@ -52,3 +52,7 @@ a{
 .minecraft{
   width: 50%;
 }
+.minecraft:hover{
+  width: 45%;
+  height: 95%;
+}
